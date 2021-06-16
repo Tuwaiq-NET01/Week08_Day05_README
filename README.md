@@ -1,4 +1,5 @@
-<div direction="rtl"></div>
+<div dir="rtl" align="right"></div>
+
 ![Tuwaiq](https://tuwaiq.codes/assets/images/logo.svg)
 ----
 
