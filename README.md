@@ -1,6 +1,6 @@
 <div dir="rtl" align="right" >
 
-![Tuwaiq](https://ibb.co/Yf6hgkP)
+![Tuwaiq](https://i.ibb.co/SV2BSn5/tuwaiq.png)
 
 ----
 
