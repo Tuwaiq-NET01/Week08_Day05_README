@@ -1,6 +1,6 @@
 <div dir="rtl" align="right" style="background:#FFFFFF">
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 ![Tuwaiq](https://tuwaiq.codes/assets/images/logo.svg)
 ----
 
