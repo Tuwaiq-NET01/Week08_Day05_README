@@ -1,10 +1,11 @@
 <div dir="rtl" align="right" style="background:orange">
+
 style {
   #readme{
-  background: White !imporant
+  background: White !imporant;
   }
 }
-  
+
 ![Tuwaiq](https://tuwaiq.codes/assets/images/logo.svg)
 ----
 
