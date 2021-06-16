@@ -1,4 +1,4 @@
-<div dir="rtl" align="right"></div>
+<div dir="rtl" align="right">
 
 ![Tuwaiq](https://tuwaiq.codes/assets/images/logo.svg)
 ----
@@ -36,3 +36,4 @@
 ### License & Resource
  .....
   
+</div>
