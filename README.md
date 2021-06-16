@@ -3,9 +3,9 @@
 ![Tuwaiq](https://tuwaiq.codes/assets/images/logo.svg)
 ----
 
-# (App_Name)
+# (App_Name) | اسم التطبيق
   .......
-### Introduction
+### Introduction | المقدمــة
  ......
 ### Demo  
  .....
