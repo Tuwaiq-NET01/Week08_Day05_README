@@ -1,4 +1,4 @@
-[Tuwaiq](https://tuwaiq.codes/assets/images/logo.svg)
+(Tuwaiq)[https://tuwaiq.codes/assets/images/logo.svg]
 ----
 
 # (App_Name)
