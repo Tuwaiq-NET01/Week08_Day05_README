@@ -15,9 +15,17 @@
  #### Database
  ``` dotnet ef database update```
 ### Front-End  
- .....
+ - HTML
+ - CSS
+ - JS
+ - Jquery
+ - Bootstrap 
 ### Back-End 
- .....
+ - ASP.NET MVC
+ - MSSQL Server
+ - EF Core
+
+
 ### Author
  ..... 
 ### License & Resource
