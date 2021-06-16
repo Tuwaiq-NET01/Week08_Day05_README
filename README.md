@@ -1,4 +1,4 @@
-<div dir="rtl" align="right" style="background:white">
+<div dir="rtl" align="right" style="background:orange">
 
 ![Tuwaiq](https://tuwaiq.codes/assets/images/logo.svg)
 ----
